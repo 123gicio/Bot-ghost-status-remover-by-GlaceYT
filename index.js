@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["🔱Słucha Administracji Los Angos🔱","👀Patrzy na RolePlay👀"];
 
 
 let currentIndex = 0;
