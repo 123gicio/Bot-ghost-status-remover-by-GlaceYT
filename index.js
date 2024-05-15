@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🔱Słucha Administracji Los Angos🔱","👀Ogląda RolePlay👀"];
+const statusMessages = ["🛒Buying offer Trust Solution🛒","👀Watching Trust Solution Group👀"];
 
 
 let currentIndex = 0;
